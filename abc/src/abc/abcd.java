@@ -8,7 +8,7 @@ public class abcd {
 		
 		System.out.println("abcd_1");
 		
-		System.out.println("abcd_1");
+		System.out.println("xyz");
 
 
 		
